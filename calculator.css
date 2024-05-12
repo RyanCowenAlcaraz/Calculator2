@@ -16,10 +16,10 @@ body {
   width: 100%;
   padding: 25px;
   font-size: 5rem;
-  color: white;
+  color: rgb(0, 0, 0);
   text-align: left;
   border: none;
-  background-color: hsl(0, 0%, 20%);
+  background-color: hsl(0, 1%, 80%);
 }
 
 .keys {
